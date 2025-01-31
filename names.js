@@ -4,12 +4,12 @@
 function genCompleteName(firstName, lastName) {
 
     return {
-        firstName: firstName,
-        lastName: lastName,
+         firstName,
+         lastName
     };
     
 }
-
+// prova in console per testare la funzione(commentata)
 console.log(genCompleteName('Clint','Eastwood'));
 
 // 2. Esporta la funzione dal file.

@@ -12,7 +12,7 @@ function hobbies(hobbyOne, hobbyTwo, hobbyThree) {
 }
 
 // prova in console per testare la funzione(commentata)
-// console.log(hobbies('calcio','baseball', 'tennis'));
+console.log(hobbies('calcio','baseball', 'tennis'));
 
 // 2. Esporta la funzione dal file.
 
